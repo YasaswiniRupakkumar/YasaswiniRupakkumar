@@ -1,4 +1,4 @@
-### Hi, I am Yasaswini!
+# 👋 Hi, I am Yasaswini!
 
 👩‍💻 Software Engineering and Artificial Intelligence and Data Science Student.<br>🎉 Love working on fun and interactive projects.<br>🧐 I am currently learning react, and front-end development
 
